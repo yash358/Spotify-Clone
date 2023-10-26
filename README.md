@@ -37,7 +37,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-spotify.git
+git clone https://github.com/yash358/Spotify-Clone.git
 ```
 
 ### Install packages
@@ -58,9 +58,6 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 ```
-
-### Add SQL Tables
-Use `database.sql` file, create songs and liked_songs table (there is a video tutorial)
 
 ### Start the app
 
